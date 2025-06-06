@@ -30,7 +30,8 @@ This project showcases an exploratory data analysis (EDA) of an online retail da
 
 ## 📁 Contents
 
-- `Online Retail Dataset` — Source Dataset (Excel file)
+- `result_plots` — folder containing result plots
+- `Online Retail.xlsx` — Source Dataset (Excel file)
 - `eda.ipynb` — Jupyter notebook containing the full analysis
 - `README.md` — Project overview
 - `requirements.txt` — List of dependencies from virtual environment
